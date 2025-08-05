@@ -1,0 +1,20 @@
+# Expertise
+
+- Überlegenheit beruht auf Wissen (knowledge is power)
+- Umfangreiches und organisiertes Wissen
+- Ewerb von Expertise
+    - Potenzgestez der Übung
+    - Prozeduralisierung: Übergang von deklarativem Wissen zu prozeduralem Wissen 
+    - Automatisierung
+    - irrelevante Informationen ausblenden
+    - Qualitative Sprünge bei Ändern von zentralen Konzepten (conceptual change)
+    - Teilschritte scwher verbalisierbar
+    - Verharren bei umständlichen Methoden
+- Angeleitete Übung (deliberative practice)
+    - Leistungsunterschiede kommen zum Großteil aus anderen Faktoren
+    - Menschen brauchen unterschiedlich viel Übung
+    - retrospektive Selbstberichte fehlerbehaftet
+    - Selbsteinschätzung beruht auf aktuellem Fähigkeitsniveau
+- Gen-Umewlt-Interaktionsmodell
+    - Expertise entsteht durch bereichsübergreifende Merkmale und bereichsspezifisches Wissen
+    - Unterschiede beruhen auf genetischen/umweltbedingten Faktoren
