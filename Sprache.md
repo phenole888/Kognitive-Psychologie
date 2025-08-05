@@ -1,0 +1,44 @@
+# Sprache
+
+- Sprachverstehen
+    - Teilprozesse:
+        - Herausfiltern
+        - Dekodieren
+        - Worterkennung
+        - Interpretation
+        - Integration in den Kontext
+    - McGurk-Effekt: Sprachverstehen nutzt visuelle Informationen
+    - Ganong-Effekt: Sprachverstehen nutzt semantischen Kontext
+    - Phonemrestaurationseffekt: Sprachverstehen nutzt semantischen Kontext, wenn später erst verfügbar
+    - Beispiel: Falsches Verstehen von Liedtexten
+- Mentales Lexikon
+    - Eigenschaften von Wörtern
+    - Sehr gut organisiert
+    - aktiviert beim Hören/Lesen und Schreiben/Sprechen
+- Ambiguität
+    - Lexikalische Ambiguität (Homophone)
+        - Alle Bedeutungen aktiviert
+        - kontextadäquat wird schnell selektiert
+    - Syntaktische Ambiguität
+        - Anbindungsambiguität
+        - Zeitaufwand
+        - Holzwegsätze
+    - Gebildete Repräsentationen bleiben aktiv
+    - Syntaktische Markierung
+- Implikaturen
+    - konversationale Implikatoren
+    - Konversationsmaximen
+        - Maxime der Qualität
+        - Maxime der Qnatität
+        - Maxime der Relevanz
+        - Maxime der Art und Weise
+- Sprachproduktion
+    - Audience Design
+        - Berücksichtigen allgemeine und idiosynkratische Merkmale der Zuhörenden
+        - Lombard-Effekt
+        - Berücksichtigen Kontext
+    - Verwendung von Diskursmakern
+        - Unterstützen Kommunikation (Gesprächsführung und Verständnis)
+    - Prosodie
+        - Prosodische Informationen (Rhtythmus, Betonung und Intonation)
+        - Hypothese der impliziten Prosodie
