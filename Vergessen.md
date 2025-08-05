@@ -1,0 +1,26 @@
+# Vergessen
+
+- Ebbinghaus'sche Vergessenskurve
+- nicht zeitabhängig
+- Interferenz:
+    - retroaktive Interferenz (Rugby, Listen)
+    - proaktive Interferenz
+- Vergessen ist wichtig, weil
+    - Selektives Vergessen
+    - Konzentration auf Wichtiges
+    - Kontrolle über intrusive Erinnerung
+- Directed forgetting:
+    - Selektives Wiederholen und Elaborieren
+    - Enkodieren aktiv unterdrücken
+    - Item-method directed forgetting
+    - List-method directed forgetting
+    - Wechsel des mentalen Kontesxts (weniger Abrufcues)
+- Think/No-Think Paradigma: unterdrückungsinduziertes Vergessen
+- Dissoziative Amnesie:
+    - Schwere psychische Stressoren (meist Traumata)
+    - Tiefgreifende Verlust persönlicher Erinnerungen
+    - Verlust gesamter persönlicher Geschichte = dissoziative Fugue
+- Wiedererinnern:
+    - Spontanes Wiedererinnern: Wenn Inhibition nachlässt
+    - Wiederholte Abrufversuche: Hypermnesie
+    - Wiederherstellen von Abrufcues
