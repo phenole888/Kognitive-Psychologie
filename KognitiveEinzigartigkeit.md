@@ -1,0 +1,33 @@
+# Kognitive Einzigartigkeit
+ - Mentale Zeitreisen
+     - Episodisches Gedächtnis
+     - Episodisches Zukunftsdenken
+     - Kalifornienhäher/Tiere verstecken essen, wenn es in der Vergangenheit weniger gab
+     - sehr hohe Flexibilität bei Menschen
+     - Episoden ausgestattet mit Beziehungen, Hoffnungen, Ängste
+     - Zusmamenwirken mit anderen Kognitionen können Menschen besser als Tiere
+ - Entwicklung/Gebrauch von Werkzeugen
+	 - strenge Definition selten, liberal häufig
+	 - Werkzeuggebrauch korreliert mit Gehirngröße
+ 	 - Tiere können Werkzeuge Entwicklung aber nicht im selben Maß wie Menschen
+ - Problemlösefähigkeit
+ 	- Voraussetzung: Schlussfolgerndes Denken
+   		- Deduktives Denken
+     	- Induktives Denken
+  	- Affen können Bewegungen versteckter Objekte mental respräsentieren (Essen unter Becher wird gedreht)
+    - Tiere verstehen selten Kausalbeziehungen
+    - Tiere haben Problemlösefähigkeit aber deutlich unterlegen
+ - Komplexität sozialer Kognitionen
+ 	- Menschen verfolgen Ziele häufiger gemeinsam
+  	- Affen hören auf sobal sie belohnt wurden aber nicht ihre Mates
+  	- Hängt vermutlich mit sozialen Kognitionen zusammen
+ - Flexibilität in der Kommunikation
+ 	- Tiersignale/Sprache ist sehr starr
+  	- Vogelgesang gewisse Flexibilität (Syntax/Korrektur), aber keine komplexeren Botschaften
+   	- Affen können symbolisch kommunizieren
+   	- Menschliche Sprache deutlihc komplexer und flexibler
+ - Bereichsübergreifendes Denken
+ 	- Leistung in verschiedenen kognitiven Aufgaben ist positiv korreliert (g-Faktor)
+  	- g-Faktor gibts auch bei Tieren
+   	- Belohnungsaufschub auch bei Tieren möglich
+   	- Kaum Belege dass Menschen überlegen sind
