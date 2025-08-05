@@ -1,0 +1,32 @@
+# Wissen und Wahrheit
+
+- Wissenkomponente
+- Wissensewerb benötigt Verständnis
+- Wissensstrukturen:
+  - Knoten = Ideen
+  - Aktivierung stärker bei nahen Knoten
+  - Taxonomische Struktur
+  - Ziel-Handlungs-Struktur
+    - um-zu Verbindungen
+    - Warum oben, wie unten
+  - Räumliche Struktur
+    - ist-in Verbindung
+  - Kausale Struktur
+  - Verbindungen sind unterschiedlich stark
+  - Angereichert mit Wahrnehmungen, Emotionen und Handlungen
+- Wahrheitsurteilcues
+  - Basisraten
+    - Liberales Kriterium
+    - Liberal mit semantisch passenden Bildern
+    - Konservativ mit semantisch unpassenden Bildern
+  - Gefühle
+    -  Truth-Effekt: wiederholtes Lesen/Hören, selbst widersprechend
+    -  Verarbeitungsflüssigkeit
+    -  Gute Heuristik für Alltag
+  - Gedächtnis
+    - Wahr, was weniger Faktenwissen widerspricht
+    - Moses-Täuschung
+    - Prüfen des Wahrheitsgehaltes (am Anfang) verhindert Truth-Effekt
+    - Erinnerung für Glaubwürdigkeit von Quellen
+- Korrektur von falschem Wissen nachträglich schwer
+  - Fehlinformation mitgespeichert
