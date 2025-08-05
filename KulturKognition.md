@@ -1,0 +1,31 @@
+# Kultur und Kognition
+
+- Untersuchung kognitiver Unterschiede Mitte 20. Jahrhundert
+- Leistungsunterschiede wegen kultureller Unterschiede
+- Starke Leistung wenn Alltagsaufgaben ähnlich
+- Kulturelle Erfahrung beeinflussen Ausprägung und Entwicklung von Kognitionen
+- Forschungsansätze
+  - Kulturvergleichende Psychologie
+    - Vergleich Menschen verschiedener Kulturen
+    - Untersucht Einfluss der Kultur auf Kognition
+    - Anfällig Gruppen zu bevorzugen
+  - Kulturpsychologie
+    - Vermeidet Kulturvergleich
+    - Grundannahme:
+      - Kultur prägt Kognition und Verhalten durch Lernen und Wahrnehmungen
+    - Ziel:
+      - Wie wird kulturelle Bedeutung vermittelt?
+- Kumulative kulturelle Evolution
+- Grundlegende kognitive Funktionen gleich
+- Einfluss von Kultur auf psychologische Merkmale
+  - Konvention zur Organisation und Kommunkation von Wissen
+    - Kulturell geteilte Schemata und Skripte
+    - Ab Ende erstem Lebensjahres
+    - Westen beschreibt räumliche Information durch mentale Tour
+    - Unterschiedliche Oragnisation von räumlichen Wissen
+    - Räumliche Beziehung relavistisch vs. absolut
+  - Werkzeuge
+    - Unterstützen Denken und Problemlösen
+    - Große Unterschiede bzgl. Karten
+  - Kulturelle Praktiken
+    - Wertgeschätze Fähigkeiten vermittelt
