@@ -1,0 +1,39 @@
+# Autobiographisches Gedächtnis
+
+- Gedächtnis:
+    - Ereignisse über gesasmte Lebensspanne
+    - selbezogene Informationen
+    - Ansatz: separat betrachten weil andere Rolle
+- Funktionen:
+    - Direktive Funktion
+    - Soziale Funktion
+    - Selbstbezogene Funktion
+    - Emotionsregulation
+- Forschungszugänge
+    - Tagebuchstudien
+    - Geförderte Reproduktion
+    - Erinnerung and öffentliche Ereignisse
+    - Neuropschologische und neurowissenschaftliche Methoden
+- Tagebuchstudien Befunde:
+    - retrieval practice: öfter abfragen = unwahrscheinlich vergessen
+    - Erinnern deutlich besser an ausgewählte Ereignisse als random Ereignisse
+- Geförderte Reproduktion:
+    - Infantile Amnesie
+        - Ursache: neurogeneseinduziertes Vergessen, Entwicklung der Spache, Fehlen eines kohärenten Selbstkonzepts
+    - Reminiscence bump
+        - Positive Ereignisse, Emotionalität
+        - Wichtige, prägende Erinnerungen
+        - Unabhängig von Art des Cues
+    - Recency-Effekt
+- Struktur:
+    - Arbeits-Selbst
+        - Struktur umfasst Selbstbilder und aktive Ziele
+    - Autobiographische Wissensbasis:
+        - Erinnerungen gruppiert zu Ereignissen
+        - Ereignisse zugeordnet zu Lebensphasen
+        - Oberste ebene Lebenserzählung
+- Blitzlichterinnerung:
+    - Überzeugt
+    - Lebhaft
+    - Gleich oft falsch wie normale Erinnerungen
+- HSAM
