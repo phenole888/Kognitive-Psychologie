@@ -1,3 +1,42 @@
 # Aufmerksamkeit
 
- - 
+- Eigenschaften
+    - Begrenzt
+    - Selektiv
+    - Wahrnehmung und Handlung
+    - Mental
+- Aufmerksamkeitssteuerung
+    - endogen
+    - exogen
+- Cues können Aufmerksamkeit verlagern
+    - exogen: bottom-up-Prozesse sind schneller aber Inhibition of Return
+    - endogen: top-down-Prozesse sind langsamer aber halten länger
+- visuelles Neglect
+    - Störung der Ausrichtung von Aufmerksamkeit
+    - Aufmerksamkeit wird nicht auf vernahclässigte Seite eines Raums gelenkt
+- Treismans Merkmalsintegrationstheorie
+    -  Einziges Merkmal: Suchzeit unabhängig von Distraktoren (Pop-Out-Suche)
+    -  Mehrere Merkmale: Sihczeit hängt von Anzahl Distraktoren ab (Konjunktionssuche)
+    -  Schritt 1: Extraktion einfacher Merkmale (keine Aufmerksamkeit)
+    -  Schritt 2: Kombination der Merkmale, die sich an einem Ort befinden (räumliche Aufmerksamkeit)
+- Boradbents Filtertheorie:
+    - Physikalische Merkmale früh selektiert
+    - Kritik:
+        - Manche Informationen kommen durch (Name, Geschlechtwechsel, Tonhöhe)
+- Treismans Abschwächungstheorie:
+    - Aufmerksamkeit führt zu Gewichtung von Informationen
+- Späte Selektion (Deutsch & Deutsch):
+    - Alle Reize verarbeitet
+    - Selegiert wird bei Handlungsauswahl
+- Zeitpunkt der Filterung hängt von Aufgabe und Kontext ab
+- Stroop-Effekt: Aufmerksamkeitslenkung auf ignorierte Reize schwer
+- Negative Priming: Schlechtere Leistung bei ignorierter Distraktor wird zum Zielreiz
+- Unaufmerksamkeitsblindheit
+- Multitasking
+    - Aufgabenschwierigkeit
+    - Aufgabenähnlichkeit
+    - Übung
+    - Folgen
+        - Scattered-Attention-Hypothese: beeinträchtigt Kontrolle über Aufmerksamkeit
+        - Trained-Attention-Hypothese: fördert Aufmekrsamkeitsprozesse
+        - Medien-Multitasking korreliert mit Aufmerksamkeitsfehlern
