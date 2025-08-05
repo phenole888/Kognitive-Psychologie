@@ -1,0 +1,31 @@
+# Einführung
+- Kognitionen: Wahrnehmung, Aufmerksamkeit, Lernen, Gedächtnis, Denken, Urteilen, Sprache, Handlungsplanung
+- Zugangsweisen:
+    - Kognitive Psychologie:
+        - Urpsurng von meisten Theorien
+        - Früher: Reize lösen bottom-up-Prozesse aus
+        - Später: Gibt auch top-down-Prozesse
+        - Herausforderung: Experiment so wählen, dass Rückschluss auf kognitive Prozesse
+        - Aufgaben fast nie prozessrein
+    - Kognitive Neuropsychologie
+        - Hauptziel: Untersuchung von hirngeschädigten Patienten und Rückschlüsse auf kognitive Fähigkeiten von gesunden Menschen
+        - Grundannahmen:
+            - Modularität des kognitiven Systems
+            - Anatomische Modularität
+            - Universalität
+            - Subtraktivität
+            - Transparenz
+        - Grundannahmen stimmen nicht unbedingt:
+            - Gehirnareale arbeiten zusammen
+            - Anatomische Modularität gilt nicht für alle Fähigkeiten
+            - Universalität: Sprachregionen sind nicht gleich
+            - Kompensation geschädigter Areale durch gesunde Module
+    - Kognitive Neurowissenschaften:
+        - Kombinieren von Informationen über kognitive Prozesse mit Informationen über Struktur und Aktivität des Gehirns
+        - Technologisch
+        - Viele falsche oder nicht replizierbare Schlussfolgerungen/Ergebnisse
+    - Cognitive Science:
+        - Hauptziel: Entwicklung komputationaler Modelle menschlicher Kognitionen
+        - theoretische Annahmen und Vorhersagen präzise
+        - Modelle sehr umfassend
+        - Motivationale und emotionale Faktoreun häufig nicht berücksichtigt
